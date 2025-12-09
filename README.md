@@ -1,5 +1,6 @@
 # TZ-java-AQA
 Требования:
+
   1)Java 21+
 
   2)Google Chrome (последняя версия)
